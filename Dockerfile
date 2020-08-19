@@ -38,7 +38,7 @@ ENV WHATSAPP_PW="xxxxxxxxxxxxxxxxxxxxxxxx="
 # Bing API KEY for image search
 ENV BING_API_KEY=""
 # Add a cellphone number to set as admin
-ENV WHATSAPP_ADMIN=""
+ENV WHATSAPP_ADMIN="6285155477031"
 ############## /EDIT
 
 CMD ["/usr/bin/supervisord"]
